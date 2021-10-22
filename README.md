@@ -7,4 +7,4 @@
 5. Run run run
 
 
-Wait time and limits are set. Should be run up to 5 times a day.
+Wait time and limits are set. Should be run up to 5 times a day. Bot can like and retweet tweets via 2 functions that you can comment out or leave them as is. 
