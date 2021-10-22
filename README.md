@@ -5,3 +5,6 @@
 3. Download codebase and open in PyCharm
 4. Install tweepy via typing pip install tweepy in the Pycharm project terminal
 5. Run run run
+
+
+Wait time and limits are set. Should be run up to 5 times a day.
